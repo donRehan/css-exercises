@@ -24,3 +24,17 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.Dash-board {
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+
+}
