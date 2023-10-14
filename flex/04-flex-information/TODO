@@ -1,9 +1,7 @@
 [x] Align Information center
 [x] Create a Div for each image and contain its text in it
+	[x] Create a width for each box around 50px more than the width of the image
+	[x] Wrap text and items to be center aligned in that box
 [x] Align them to be next to each other by chaning axis
-	[_] then justfying content
-[_] Add the gap in between the information and pics of 32px
-[_] Add gap element in the Div container of the images of 52px
-[_] Give a width of 200px
-[_] Wrap text with the <p> tag
-	[_] using the self align and self justfying
+[x] Add the gap in between the information and pics of 32px
+[x] Add gap element in the Div container of the images of 52px
