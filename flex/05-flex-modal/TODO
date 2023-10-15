@@ -1,0 +1,17 @@
+MUST CONTAIN THE SAME STRUCTURE WHEN THE PAGE IS RESIZED
+
+[x] Readjust the list 
+[x] Create one container for all
+	[x] Add the exclamation mark to a div and make the master flexbox display
+		[x] Set flexshrink 0 to it
+	[x] Add inner padding for all the edges
+[x] Make all text start from the same margin and same alignment
+	[x] Text and paragraphs and the buttons should all be in the same div
+	[x] Then add the button closeing in a div also
+	[x] Add buttom buttons in a div too
+	[x] Set display to coloumns in the mains and inners to rows
+[x] Header is of header format
+[x] Add close button to the same div of the header and align it right
+	[x] Add flexshrink of 0 to it
+[x] Buttons should have flexshrink too ?/
+[x] Clear the top padding a bit 
